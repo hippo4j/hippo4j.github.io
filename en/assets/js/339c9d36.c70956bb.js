@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[9772],{9825:e=>{e.exports=JSON.parse('{"label":"hippo4j","permalink":"/en/blog/tags/hippo-4-j","allTagsPath":"/en/blog/tags","count":1}')}}]);
